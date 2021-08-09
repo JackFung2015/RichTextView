@@ -1,0 +1,23 @@
+{
+  "stemSpecialSymbol": [
+    {
+      "end": 20,
+      "start": 18,
+      "style": "DOT"
+    },
+    {
+      "end": 50,
+      "start":30,
+      "style": "UNDERLINE"
+    },
+    {
+      "end": 63,
+      "start": 60,
+      "style": "DOT"
+    }, {
+      "end": 100,
+      "start":92,
+      "style": "UNDERLINE"
+    }
+  ]
+}

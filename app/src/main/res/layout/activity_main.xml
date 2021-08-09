@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.fung.richtextview.RichTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingExtra="2dp"
+        android:textSize="16dp"
+        android:text="白日依山尽，黄河入海流。欲穷千里目，更上一层楼。"
+        android:id="@+id/richTv"/>
+    <com.fung.richtextview.RichTextView
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingExtra="3dp"
+        android:textSize="20sp"
+        android:text="北京某蔬菜商户表示，以黄瓜为例，上个月黄瓜售价一元多一斤，现在则是两元多一斤，是因为经常下雨导致农作物生长缓慢所致。商户同时表示，这种高温高湿天气对菜价的影响已经接近尾声，此外，7月份鸡蛋价格保持高位运行，并且连续稳步上涨。"
+        android:id="@+id/richTv2"/>
+</LinearLayout>
